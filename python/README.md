@@ -1,7 +1,7 @@
 
-Chapter 7.2 - Integer Linear Programming in Computational and Systems Biology
+Integer Linear Programming in Computational and Systems Biology
 
-Author: Dan Gusfield Protein Foldering via the HP Model.
+Protein Foldering via the HP Model.
 
 In a very simplified form, we can consider proteins as strings consisting of hydrophobic (H) and polar (P) elements, e.g. HHPPHHHPHHPH. 
 
